@@ -1,0 +1,337 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "9860d84cce01bf9d04aff78ce2fe3713"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "4e1c6244455e2a19ec7b294b7b1c2331"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "a0ba884548820066dfadd8416036abba"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "c8f24385262425ace55bdac985c878df"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "dafec4f87fead6718cb125f0b0fc8441"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/clara-wood",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/clara-wood/index.html",
+        "type": "file",
+        "md5": "df0a843108d3df717ded9059a3be21e0"
+    },
+    {
+        "path": "authors/clara-wood/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/clara-wood/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/clara-wood/page/2/index.html",
+        "type": "file",
+        "md5": "c3a9493f6f9f9b9f40a1dce3963299a4"
+    },
+    {
+        "path": "authors/clara-wood/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/clara-wood/page/3/index.html",
+        "type": "file",
+        "md5": "77acd7982d39e22e0001d79f09f0cc54"
+    },
+    {
+        "path": "discover-the-stylish-elegance-of-esf-furniture-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-the-stylish-elegance-of-esf-furniture-for-your-home/index.html",
+        "type": "file",
+        "md5": "7df678fddb2308280c26bb60cb2304e8"
+    },
+    {
+        "path": "elevate-your-home-decor-with-victorian-console-tables-and-mirrors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elevate-your-home-decor-with-victorian-console-tables-and-mirrors/index.html",
+        "type": "file",
+        "md5": "e66e362d0c0d3b97f5ea2cb98eaa6b00"
+    },
+    {
+        "path": "elevate-your-space-a-guide-to-high-end-furniture-trends-in-the-usa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elevate-your-space-a-guide-to-high-end-furniture-trends-in-the-usa/index.html",
+        "type": "file",
+        "md5": "88d5a46b7a9efaa12995cd0f197831b5"
+    },
+    {
+        "path": "elevate-your-space-with-elegant-victorian-accent-chairs-a-timeless-style-statement",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elevate-your-space-with-elegant-victorian-accent-chairs-a-timeless-style-statement/index.html",
+        "type": "file",
+        "md5": "48050b73c445a31713a8c91ae9ab230e"
+    },
+    {
+        "path": "exploring-the-elegance-of-victorian-dining-sets-a-timeless-addition-to-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/exploring-the-elegance-of-victorian-dining-sets-a-timeless-addition-to-your-home/index.html",
+        "type": "file",
+        "md5": "9a67b5680d87ab3909a0bff45d3ada64"
+    },
+    {
+        "path": "exploring-the-latest-mcferran-furniture-catalog-a-guide-to-stylish-living-in-the-usa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/exploring-the-latest-mcferran-furniture-catalog-a-guide-to-stylish-living-in-the-usa/index.html",
+        "type": "file",
+        "md5": "097214caa01287ce778e16beda2ed5f5"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "da36d29592030ff38ba142df5c587f81"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "197ebcf46fea57bbf048dc07decb9144"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "edf9a4a826c5e6e5b248afebbea77585"
+    },
+    {
+        "path": "maxim-mattress-transform-your-sleep-experience-with-premium-comfort",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/maxim-mattress-transform-your-sleep-experience-with-premium-comfort/index.html",
+        "type": "file",
+        "md5": "8c350587ea1fc3fc5363e02db1a974dc"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/Mobilia-Cleopatra-Logo.webp",
+        "type": "file",
+        "md5": "d15ae83c31afefc4dce17b169693afaf"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-2xl.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-lg.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-md.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-sm.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-xl.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "/media/website/responsive/Mobilia-Cleopatra-Logo-xs.webp",
+        "type": "file",
+        "md5": "d816588c2ba74f58e7c8fec3996b3c22"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "87385e028063443fe35961f4d71e9c59"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "9324f80a682496be1375db25a9e9edb7"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "2e9081b4f8082f3d6ed4fd16d4cda2b1"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "39e36472c6674256a2ea7d63b44dda4d"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "f094113cde3946cd3d7b5ed8abd52f27"
+    },
+    {
+        "path": "timeless-elegance-a-comprehensive-guide-to-victorian-bedroom-sets-in-the-usa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-a-comprehensive-guide-to-victorian-bedroom-sets-in-the-usa/index.html",
+        "type": "file",
+        "md5": "0cec6605d9036f284a07cc8b658d65db"
+    },
+    {
+        "path": "timeless-elegance-a-guide-to-choosing-victorian-dining-sets-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/timeless-elegance-a-guide-to-choosing-victorian-dining-sets-for-your-home/index.html",
+        "type": "file",
+        "md5": "6e2da4a33c683e97ae55da420ba0829c"
+    },
+    {
+        "path": "top-victorian-sofas-and-loveseats-to-elevate-your-living-space",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/top-victorian-sofas-and-loveseats-to-elevate-your-living-space/index.html",
+        "type": "file",
+        "md5": "dce9d40f78b31755261818f9613f90b0"
+    },
+    {
+        "path": "victorian-benches-adding-timeless-elegance-to-your-home-decor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/victorian-benches-adding-timeless-elegance-to-your-home-decor/index.html",
+        "type": "file",
+        "md5": "ad694132bb2653083184e9b0b20394f8"
+    }
+]

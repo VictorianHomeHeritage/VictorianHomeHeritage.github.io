@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://VictorianHomeHeritage.github.io/sitemap.xml
